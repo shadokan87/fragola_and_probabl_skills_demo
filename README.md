@@ -14,7 +14,7 @@ The full conversations are available in both JSON and Markdown form:
 - No skills: [conversation_JSON.json](./titanic_no_skills/conversation_JSON.json) and [conversation_JSON_MARDOWN_CONVERTED.md](./titanic_no_skills/conversation_JSON_MARDOWN_CONVERTED.md)
 - With skills: [conversation_JSON.json](./titanic_with_skills/conversation_JSON.json) and [conversation_JSON_MARDOWN_CONVERTED.md](./titanic_with_skills/conversation_JSON_MARDOWN_CONVERTED.md)
 
-The Markdown versions can be read directly in VS Code or opened in a live preview tool such as [Markdown Live Preview](https://markdownlivepreview.com/).
+The Markdown versions can be read directly in github, VS Code or opened in a live preview tool such as [Markdown Live Preview](https://markdownlivepreview.com/).
 
 The main difference is process quality. The `with skills` version is clearly more organized and methodical, and it documents the research through experiments, a journal, and reusable project structure. The `without skills` version is more direct and less structured.
 
